@@ -54,7 +54,7 @@ To make it more portable, consider moving the following to `$env` variables:
 
 | Suggested Variable | Purpose |
 |--------------------|---------|
-| `SHEET_ID` | Google Sheet document ID (currently `1H2q1oiuAo0CxbxlXQyq7BY5wKQbXWMxBJmGy9Frdlxg`) |
+| `SHEET_ID` | Google Sheet document ID |
 | `EMAIL_SUBJECT` | Email subject line (currently `"Thanks For Contacting US!"`) |
 | `EMAIL_FOOTER` | The signature/footer in the email template |
 
