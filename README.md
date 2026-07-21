@@ -9,7 +9,7 @@ A universal, centralized repository for importing, versioning, and managing mult
 | Workflow | Description | Trigger | Key Integrations |
 |----------|-------------|---------|------------------|
 | [**Form → Email Automation**](/workflows/form-email-automation) | Captures form submissions, saves data to Google Sheets, sends a personalized email reply, and updates the submission status to prevent duplicates. | Web Form (n8n Form Trigger) | Gmail, Google Sheets |
-| [**Lead Generation (Apify)**](/workflows/lead-generation-workflow) | Scrapes Google Maps via Apify based on category/location/rating, enriches leads by scraping websites for emails, phones, and social links, then logs everything to a Google Sheet. | Web Form (n8n Form Trigger) | Apify, Google Sheets, HTTP Request |
+| [**Lead Generation (Apify)**](/workflows/lead-gneration-workflow) | Scrapes Google Maps via Apify based on category/location/rating, enriches leads by scraping websites for emails, phones, and social links, then logs everything to a Google Sheet. | Web Form (n8n Form Trigger) | Apify, Google Sheets, HTTP Request |
 
 > **New workflows coming soon!** Check back regularly or submit your own.
 
